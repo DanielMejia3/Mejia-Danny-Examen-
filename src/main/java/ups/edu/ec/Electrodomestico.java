@@ -85,7 +85,7 @@ public class Electrodomestico {
         
         this.color = "Negro";
         this.consumo = 'F';
-        this.peso = peso;
+        this.peso = peso ;
         this.precio = precio;
                 
     }
